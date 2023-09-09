@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab490&label=Profile%20views&color=0e75b6&style=flat" alt="ab490" /> </p>
 
 ## 💫 About Me:
-- 🌱 I’m currently learning **Machine Learning and AI**
+- 🌱 I’m currently learning **Machine Learning and Computer Vision**
 
 - 📫 How to reach me **anooshkabajaj@gmail.com**
 
