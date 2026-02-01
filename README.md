@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anooshka Bajaj</h1>
-<h3 align="center">A Data Scientist in the Making...</h3>
+<h3 align="center">Data Scientist, Machine Learning & AI Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab490&label=Profile%20views&color=0e75b6&style=flat" alt="ab490" /> </p>
 
 ## 💫 About Me:
-- 🌱 I’m currently learning **Machine Learning and Computer Vision**
+- 🌱 Research focus: **Mechanistic Interpretability, In-Context Learning in LLMs, AI Safety and Alignment**
 
 - 📫 How to reach me **anooshkabajaj@gmail.com**
 
